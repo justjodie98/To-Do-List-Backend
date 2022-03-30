@@ -1,0 +1,12 @@
+{
+  "name": "productivity-journal",
+  "version": "1.0.0",
+  "main": "sequelize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
